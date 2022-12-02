@@ -7,6 +7,9 @@ module.exports = {
         "primairy-dark": "#5651e5",
         "primary-light": "#709dff",
       },
+      maxWidth: {
+        large: "1140px",
+      },
     },
   },
   plugins: [],

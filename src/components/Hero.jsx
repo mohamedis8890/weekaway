@@ -8,7 +8,7 @@ const Hero = () => {
         alt="Hero"
         className="h-full w-full object-cover"
       />
-      <div className="max-w-[1140px] m-auto">
+      <div className="max-w-large m-auto">
         <div className="absolute top-[40%] text-white p-4 md:top-[50%] flex flex-col">
           <h1 className="font-bold text-4xl">Find Your Special Trip</h1>
           <h2 className="text-4xl py-4 italic">With Weekaway</h2>
