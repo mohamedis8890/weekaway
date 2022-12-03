@@ -5,6 +5,7 @@ import Hero from "./components/Hero";
 import NavBar from "./components/NavBar";
 import TopBar from "./components/TopBar";
 import Contact from "./components/Contact";
+import Footer from "./components/Footer";
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
       <Booking />
       <Gallery />
       <Contact />
+      <Footer />
     </div>
   );
 }
